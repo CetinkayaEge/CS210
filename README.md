@@ -40,5 +40,8 @@ I will use the spotify's get personal data feature to get detailed listening inf
 - ratio of game duration and music listened duration
 ### 5)Create tables and plots to visualize the data.
 ### 6)Identify the patterns and relationships through these factors.
+- My win rate drops as the game gets longer
+- My win rate is positively correlated with my KDA ratio
+- My asisst mostly contribute my KDA
 
 
