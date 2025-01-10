@@ -43,5 +43,6 @@ I will use the spotify's get personal data feature to get detailed listening inf
 - My win rate drops as the game gets longer
 - My win rate is positively correlated with my KDA ratio
 - My asisst mostly contribute my KDA
+- Reject null hypothesis that kda doesn't effect win rate since p value is smaller than 0.05
 
 
